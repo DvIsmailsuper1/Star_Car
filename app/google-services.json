@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "263999228144",
+    "project_id": "star-car-driver",
+    "storage_bucket": "star-car-driver.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263999228144:android:d94061af39caa80d625a35",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "263999228144-m8gpbe5dc82rkj1t0v5fk0dc2o1is6kf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapplication",
+            "certificate_hash": "8e56a3290802a60ed8be519ee92fd5d06c2eac6c"
+          }
+        },
+        {
+          "client_id": "263999228144-6s3p2fpebua30iv5c1mgf33rmmalamev.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN8gD1URh5SO8vsVeci2KhfILXrA5bAMw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "263999228144-6s3p2fpebua30iv5c1mgf33rmmalamev.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

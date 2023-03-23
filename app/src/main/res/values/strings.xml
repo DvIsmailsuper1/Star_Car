@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Star Car Driver</string>
+    <string name="CHANNEL_ID">HEADS_UP_NOTIFICATION</string>
+</resources>
